@@ -1,0 +1,82 @@
+[
+  {
+    "clientName": "John Smith",
+    "propertyAddress": "123 Maple Street, Toronto, ON M5V 3A8",
+    "description": "Luxury gift basket with premium chocolates and champagne",
+    "category": "Closing Gift",
+    "cost": 250.00,
+    "dateGiven": "2026-02-15"
+  },
+  {
+    "clientName": "Sarah Johnson",
+    "propertyAddress": "456 Oak Avenue, Vancouver, BC V6B 4X8",
+    "description": "Premium housewarming gift set including candles and throws",
+    "category": "Housewarming",
+    "cost": 185.50,
+    "dateGiven": "2026-02-20"
+  },
+  {
+    "clientName": "Michael Chen",
+    "propertyAddress": "789 Elm Drive, Calgary, AB T2P 1N8",
+    "description": "Referral reward - luxury watch by designer brand",
+    "category": "Refferal Reward",
+    "cost": 450.00,
+    "dateGiven": "2026-02-10"
+  },
+  {
+    "clientName": "Emily Rodriguez",
+    "propertyAddress": "321 Pine Road, Montreal, QC H2X 1X9",
+    "description": "Closing gift with personalized leather portfolio and pen set",
+    "category": "Closing Gift",
+    "cost": 320.75,
+    "dateGiven": "2026-02-12"
+  },
+  {
+    "clientName": "David Park",
+    "propertyAddress": "654 Birch Lane, Ottawa, ON K1A 0B1",
+    "description": "Housewarming collection with luxury bedding and aromatherapy set",
+    "category": "Housewarming",
+    "cost": 375.00,
+    "dateGiven": "2026-02-18"
+  },
+  {
+    "clientName": "Jessica Williams",
+    "propertyAddress": "987 Cedar Court, Edmonton, AB T5J 2N7",
+    "description": "Referral bonus - premium spa and wellness package",
+    "category": "Refferal Reward",
+    "cost": 525.99,
+    "dateGiven": "2026-02-08"
+  },
+  {
+    "clientName": "Robert Anderson",
+    "propertyAddress": "147 Spruce Street, Winnipeg, MB R3A 0B9",
+    "description": "Closing gift featuring fine wine collection and crystal glasses",
+    "category": "Closing Gift",
+    "cost": 410.00,
+    "dateGiven": "2026-02-14"
+  },
+  {
+    "clientName": "Amanda Martinez",
+    "propertyAddress": "258 Ash Drive, Quebec City, QC G1R 2B2",
+    "description": "Housewarming gift with kitchen essentials and gourmet food baskets",
+    "category": "Housewarming",
+    "cost": 280.50,
+    "dateGiven": "2026-02-22"
+  },
+  {
+    "clientName": "Christopher Lee",
+    "propertyAddress": "369 Walnut Avenue, Halifax, NS B3H 4R2",
+    "description": "Referral reward - luxury tech accessories bundle",
+    "category": "Refferal Reward",
+    "cost": 595.00,
+    "dateGiven": "2026-02-05"
+  },
+  {
+    "clientName": "Natalie Thompson",
+    "propertyAddress": "741 Poplar Place, Victoria, BC V8V 1X9",
+    "description": "Closing gift with personalized photo album and premium stationery set",
+    "category": "Closing Gift",
+    "cost": 195.25,
+    "dateGiven": "2026-02-25"
+  }
+]
