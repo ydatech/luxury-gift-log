@@ -1,7 +1,7 @@
-import { createGiftSchema, updateGiftSchema } from "../schemas/gift.schema";
-import { prisma } from "../lib/prisma";
+import { createGiftSchema, updateGiftSchema } from "../schemas/gift.schema.js";
+import { prisma } from "../lib/prisma.js";
 import { ZodError } from "zod";
-import { paginationQuerySchema } from "../schemas/pagination.schema";
+import { paginationQuerySchema } from "../schemas/pagination.schema.js";
 // 1. Create a new gift
 export const createGift = async (req, res) => {
     try {

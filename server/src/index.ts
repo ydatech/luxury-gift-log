@@ -1,7 +1,7 @@
 import "dotenv/config";
 import express from "express";
 import cors from "cors";
-import giftsRouter from "./routes/gift.routes";
+import giftsRouter from "./routes/gift.routes.js";
 import path from "path";
 
 const app = express();
